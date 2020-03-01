@@ -1,13 +1,4 @@
-/* simpleGame.js
-   a very basic game library for the canvas tag
-   loosely based on Python gameEngine
-   and Scratch
-   expects an HTML5-compliant browser
-   includes support for mobile browsers
-
-   Main code and design: Andy Harris - 2011/2012
-   Animation and tile elements by Tyler Mitchell
-*/
+//this is a good js game engine, i used it to save time on long codes that i hva to write every time
 
 
 //variable holding key being pressed
