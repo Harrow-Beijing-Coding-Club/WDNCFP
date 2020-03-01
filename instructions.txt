@@ -1,0 +1,9 @@
+Thanks simon,
+the controls: click to add wall, z+click to delete wall, click the button export to export list (the button is not easy to click to prevent you from accidentally clicking on it before you finish which you will losee all work)
+the school is 50x120 tiles
+every regular sized classrooms is 7(width of the wall with projector usually)x10(length of the wall with doors or window dor most cases), offices
+you must include features: house areas, theatre, canteen, regular sized class rooms (5 on each side of a corridor, total of 10 in a house corridor), a 2 tile gap for doors classrooms doors, 6 tile or 4 tile gap for building doors
+you must not include features (for now): stair case, glass walls, glass windows, outside, doors, funitures, objects, anything other than concrete walls, any plce outside of the main 8 shaped building
+optional feactures: toilets, kitchen
+tips: scale rooms and area according to the size of regular classroom, resize rooms if needed
+thank you simon, the school is yours, if you need help with feature like lower school and head master's office please tell me.
